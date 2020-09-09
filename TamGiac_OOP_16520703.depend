@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1489601901 source:c:\users\gia tin computer\desktop\tamgiac_oop_16520703\diem.cpp
+	"Diem.h"
+
+1489600160 c:\users\gia tin computer\desktop\tamgiac_oop_16520703\diem.h
+	<iostream>
+
+1489863485 source:c:\users\gia tin computer\desktop\tamgiac_oop_16520703\main.cpp
+	<iostream>
+	<windows.h>
+	"graphics.h"
+	"Diem.h"
+	"tamGiac.h"
+
+1489647783 c:\users\gia tin computer\desktop\tamgiac_oop_16520703\tamgiac.h
+	<iostream>
+	<math.h>
+	<conio.h>
+	"Diem.h"
+	"graphics.h"
+
+1398751284 c:\users\gia tin computer\desktop\tamgiac_oop_16520703\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1489863274 source:c:\users\gia tin computer\desktop\tamgiac_oop_16520703\tamgiac.cpp
+	"tamGiac.h"
+	<cstring>
+
